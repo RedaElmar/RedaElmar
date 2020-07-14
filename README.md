@@ -10,5 +10,5 @@ I'm a Moroccan Data Engineering Student at [ESI Rabat](http://www.esi.ac.ma/), C
 
 💬 The best way to contact me is on [My LinkedIn Profile](https://www.linkedin.com/in/reda-elmarhouch/)
 
-📫 You can also email me at [r.elmarhouch@gmail.com](mailto:r.elmarhouch@gmail.com)
+📫 You can also email me at [r.elmarhouch@gmail.com](mailto:r.el.mar817991@gmail.com)
 
