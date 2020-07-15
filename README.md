@@ -1,12 +1,12 @@
 #### Hi there 👋, My name is ✨ Reda Elmarhouch ✨, `RedaElmar` is such a straight forward username to have
 
-I'm a Moroccan Data Engineering Student at [ESI Rabat](http://www.esi.ac.ma/)🎓, Currently on a data science internship  🔭,
+I'm a Moroccan Data Engineering Student at [ESI Rabat](http://www.esi.ac.ma/)🎓, Currently on a data science internship  🔭.
 
 *I'm a data science enthousiast and a competitive programmer.*
-
 <p>
-  <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=RedaElmar&show_icons=true&hide_border=true"></a>
+  <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=RedaElmar&show_icons=true&hide_border=true"></a>
 </p>
+
 
 *Project Cell Head at [CODE ESI](https://github.com/CODE-ESI)*
 
