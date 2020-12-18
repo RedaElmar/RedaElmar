@@ -1,4 +1,4 @@
-#### Hi there 👋, My name is ✨ Reda Elmarhouch ✨, `RedaElmar` is such a straight forward username to have
+#### Hi there 👋, My name is ✨ Reda Elmarhouch ✨,
 
 I'm a Moroccan Data Engineering Student at [ESI Rabat](http://www.esi.ac.ma/)🎓, Currently on a data science internship  🔭.
 
